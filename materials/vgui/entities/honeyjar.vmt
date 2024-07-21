@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/HoneyJar"
+	"$nolod" 1
+	"$vertexcolor" 1
+}

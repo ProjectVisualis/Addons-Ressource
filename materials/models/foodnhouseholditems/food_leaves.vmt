@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/FoodNHouseholdItems/food_leaves"
+	"$alphatest" "1"
+}

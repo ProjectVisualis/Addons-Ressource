@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/entities/KinderSurpriseBox"
+	"$vertexcolor" 		1 
+	"$nolod" 		1 
+}

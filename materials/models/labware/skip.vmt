@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/labware/skip"
+	"$additive"	1
+}

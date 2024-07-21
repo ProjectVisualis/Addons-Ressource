@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/labware/plastics"
+	"$bumpmap" "models/labware/plastics_normal"
+	//"$envmap" "env_cubemap"
+	//"$normalmapalphaenvmapmask" "1"
+
+
+	$halflambert 1
+	//$nodecal 1
+	$model 1
+
+	$phong 1
+	//$phongexponent 33
+	$phongexponenttexture "models/labware/plastics_ref"
+	$phongboost	10
+	$phongfresnelranges	"[0.05 0.5 1]"
+}

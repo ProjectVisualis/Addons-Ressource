@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/entities/WineWhite2"
+	"$vertexcolor" 		1 
+	"$nolod" 		1 
+}

@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/squat_txt/plus/km_v_labglasswarekm_v_labglassware_a"
+                  $translucent "1"
+	"$nocull" "1"
+
+
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "8"
+	"$phongboost" "0.05"
+	"$phongalbedotint" "1"
+	"$phongtint" "[1 .95 .95]"
+	"$phongfresnelranges"	"[0.5 4 8]"
+}

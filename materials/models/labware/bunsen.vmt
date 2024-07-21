@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/labware/bunsen"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "models/labware/bunsen_normal"
+	"$normalmapalphaenvmapmask" "1"
+}

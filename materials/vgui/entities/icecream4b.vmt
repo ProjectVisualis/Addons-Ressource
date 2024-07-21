@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/icecream4b"
+	"$nolod" 1
+	"$vertexcolor" 1
+}

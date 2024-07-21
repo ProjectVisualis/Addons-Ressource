@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/pancake_stack"
+	"$nolod" 1
+	"$vertexcolor" 1
+}

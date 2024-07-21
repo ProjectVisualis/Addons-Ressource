@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/marabou4"
+	"$nolod" 1
+	"$vertexcolor" 1
+}
