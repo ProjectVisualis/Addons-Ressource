@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/medicmod/valvebag/plastic_transparent"
+	"$translucent" "1"
+}

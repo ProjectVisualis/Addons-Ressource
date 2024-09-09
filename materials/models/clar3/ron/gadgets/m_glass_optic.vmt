@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/clar3/squad/weapons/basic_glass_black_dusty_ar"
+"$bumpmap" "models/clar3/RoN/Gadgets/glass_n"
+
+"$color2" "[0.85 0.85 0.85]"
+//"$blendTintByBaseAlpha"	"1"
+"$PhongDisableHalfLambert" "1"
+//"$alphatest" "1"
+"$translucent" "1"
+
+"$phong" "1"
+//"$phongexponenttexture" "models/clar3/RoN/Gadgets/RoN_Battering_Ram_phong"
+"$phongexponent" "6"
+"$phongalbedotint" "1"
+"$phongboost" ".85"
+"$phongfresnelranges"	"[0.1 5.75 15.55]"
+}
+
+

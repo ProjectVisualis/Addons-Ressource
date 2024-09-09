@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/medicmod/medical_terminal/terminal4"
+	$halflambert 1
+}

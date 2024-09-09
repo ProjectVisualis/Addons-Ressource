@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/medicmod/medics/transparent"
+	"$translucent" "1"
+}
